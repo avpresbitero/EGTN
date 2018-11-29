@@ -3,20 +3,20 @@
 
 ## Instructions
 
-Click on the the links below to view the data parameter space for the corresponding parameter combinations: 
+*Click on the the links below to view the data parameter space for the corresponding parameter combinations:* 
 
-1. cost of necrosis - benefit of apoptosis - alpha
+1. Cost of Necrosis - Benefit of Apoptosis - alpha
 
 http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/cbalpha_data_parameterspace.html
 
-2. cost of necrosis - m - alpha
+2. Cost of Necrosis - m - alpha
 
 http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/cmalpha_data_parameterspace.html
 
-3. benefit of apoptosis - m - alpha
+3. Benefit of Apoptosis - m - alpha
 
 http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/bmalpha_data_parameterspace.html
 
-4. cost of necrosis - benefit of apoptosis - m
+4. Cost of Necrosis - Benefit of Apoptosis - m
 
 http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/cbm_data_parameterspace.html
