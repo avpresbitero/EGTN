@@ -1,6 +1,6 @@
 ## Instructions
 
-Click on the the links below for to view the corresponding parameter combinations: 
+Click on the the links below to view the corresponding parameter combinations: 
 
 1. cost of necrosis - benefit of apoptosis - alpha
 
