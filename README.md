@@ -1,6 +1,9 @@
+
+# Evolutionary Game Theory Can Explain the Choice Between Apoptotic and Necrotic Pathways in Neutrophils
+
 ## Instructions
 
-Click on the the links below to view the corresponding parameter combinations: 
+Click on the the links below to view the data parameter space for the corresponding parameter combinations: 
 
 1. cost of necrosis - benefit of apoptosis - alpha
 
