@@ -9,13 +9,13 @@
 
 http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/cbalpha_data_parameterspace.html
 
-2. Cost of Necrosis - m - alpha
-
-http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/cmalpha_data_parameterspace.html
-
-3. Benefit of Apoptosis - m - alpha
+2. Benefit of Apoptosis - m - alpha
 
 http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/bmalpha_data_parameterspace.html
+
+3. Cost of Necrosis - m - alpha
+
+http://htmlpreview.github.io/?https://github.com/avpresbitero/EGTN/master/cmalpha_data_parameterspace.html
 
 4. Cost of Necrosis - Benefit of Apoptosis - m
 
